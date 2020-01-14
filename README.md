@@ -4,7 +4,7 @@ This is a simple face detction and recognition model using one shot learning alg
 <h1>Description</h1>
 One-shot learning is an object categorization problem, found mostly in computer vision. Whereas most machine learning based object categorization algorithms require training on hundreds or thousands of samples/images and very large datasets, one-shot learning aims to learn information about object categories from one, or only a few, training samples/images.
 
-
+![](oneshot.png)
 
 
 
@@ -25,3 +25,4 @@ This project contains three files:
 
 This model is predicting the faces from the images as well as through web cam sucessfully .
 
+![](detection.jpg)
