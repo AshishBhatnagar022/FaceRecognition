@@ -1,5 +1,5 @@
 <h1>Objective</h1> 
-This is a simple face detction and recognition model using one shot learning algorithm. It uses siamese network to predict the person's face along with its name both in images as well as through webcam.
+This is a simple face detction and recognition model using one shot learning algorithm. It uses siamese network to predict the person's face along with its name both in images as well as through live videos.
 
 <h1>Description</h1>
 One-shot learning is an object categorization problem, found mostly in computer vision. Whereas most machine learning based object categorization algorithms require training on hundreds or thousands of samples/images and very large datasets, one-shot learning aims to learn information about object categories from one, or only a few, training samples/images.
